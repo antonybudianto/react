@@ -8,8 +8,8 @@ List of my React open-source software repositories
   - [Library](#library)
   - [Projects](#projects)
 - [React Native](#react-native)
-  - [Starters](#starters)
-  - [Projects](#projects)
+  - [RN Starters](#rn-starters)
+  - [RN Projects](#rn-projects)
 
 ___
 
@@ -69,12 +69,12 @@ ___
 
 ### React Native
 
-#### Starters
+#### RN Starters
 - [crna-starter](https://github.com/antonybudianto/crna-starter)
   
   Start your CRNA projects with React Redux, React Navigation, and App Intro ready
   
-#### Projects
+#### RN Projects
 - [gitfun-react-native](https://github.com/antonybudianto/gitfun-react-native)
 
   👨‍ Simple GitHub client on your mobile
