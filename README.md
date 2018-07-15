@@ -1,5 +1,5 @@
 # react-oss
-List of my React open-source software repositories
+List of my React open-source projects
 
 ## Table of content
 - [React](#react)
