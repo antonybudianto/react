@@ -58,6 +58,9 @@ ___
 
 ### Projects
 - [antonybudianto-web](https://github.com/antonybudianto/antonybudianto-web)
+  
+  My personal website at https://antonybudianto.com. Made using [create-react-app](https://github.com/facebook/create-react-app), SSR by [cra-universal](https://github.com/antonybudianto/cra-universal), Hosted by [Firebase Cloud Functions](https://firebase.google.com/docs/functions/). Worth a look if you're looking for free-hosted React SSR app with custom domain :)
+  
 - [gitfun-web](https://github.com/antonybudianto/gitfun-web)
 
   Simple GitHub user browser
