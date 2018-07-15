@@ -59,7 +59,8 @@ ___
 ### Projects
 - [antonybudianto-web](https://github.com/antonybudianto/antonybudianto-web)
 - [gitfun-web](https://github.com/antonybudianto/gitfun-web)
-  Simple GitHub client
+
+  Simple GitHub user browser
 
 ___
 
