@@ -22,7 +22,7 @@ ___
   
 - [react-lib-starter](https://github.com/antonybudianto/react-lib-starter) ![Star](https://img.shields.io/github/stars/antonybudianto/react-lib-starter.svg?style=social&label=Star)
  
-  📦 React library starter with monorepo structure, using Lerna as package manager. Used react-lib-scripts.
+  📦 React library starter with monorepo structure, using Lerna as package manager. Used [react-lib-scripts](https://github.com/antonybudianto/react-lib-scripts).
 
 - [cra-hackathon](https://github.com/antonybudianto/cra-hackathon) ![Star](https://img.shields.io/github/stars/antonybudianto/cra-hackathon.svg?style=social&label=Star)
   
