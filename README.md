@@ -44,7 +44,7 @@ ___
 
 - [react-kits](https://github.com/antonybudianto/react-kits) ![Star](https://img.shields.io/github/stars/antonybudianto/react-kits.svg?style=social&label=Star)
    
-  ⚔️ Opinionated Fullstack React toolkits featuring SSR, Code-splitting, Prefetching, Dual HMR
+  ⚔️ Opinionated Fullstack React toolkits featuring project generation, starting dev server, build production bundle.
   
 #### Library
 - [create-react-app-express](https://github.com/antonybudianto/create-react-app-express) ![Star](https://img.shields.io/github/stars/antonybudianto/create-react-app-express.svg?style=social&label=Star)
