@@ -47,6 +47,14 @@ ___
   ⚔️ Opinionated Fullstack React toolkits featuring project generation, starting dev server, build production bundle.
   
 #### Library
+- [react-save-localstorage](https://github.com/antonybudianto/react-save-localstorage) ![Star](https://img.shields.io/github/stars/antonybudianto/react-save-localstorage.svg?style=social&label=Star)
+
+  🗄 React component to save data to localStorage on render phase safely
+  
+- [react-ua](https://github.com/antonybudianto/react-ua) ![Star](https://img.shields.io/github/stars/antonybudianto/react-ua.svg?style=social&label=Star)
+
+  📱React User Agent Component and Provider, SSR-ready, using new React Context API
+
 - [create-react-app-express](https://github.com/antonybudianto/create-react-app-express) ![Star](https://img.shields.io/github/stars/antonybudianto/create-react-app-express.svg?style=social&label=Star)
 
   ⚙️ Express server for your Create React App (Backbone of cra-universal)
